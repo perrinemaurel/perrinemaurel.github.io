@@ -13,7 +13,7 @@ Laboratory
 ------
 I am working for the [Observatoire des Textes, des Idées et des Corpus](https://obtic.sorbonne-universite.fr/) [Observatory of Texts, Ideas and Corpora, ObTIC]. Our workspace is within the [Sorbonne Center for Artificial Intelligence](https://scai.sorbonne-universite.fr/) [SCAI], 4 place Jussieu, Paris, France.
 
-During my PhD, I participate to their events, talks and various projects. We also act as consultants when other laboratory's projects need a touch of digital humanities.
+During my PhD, I participate to their events, talks and various projects. We also act as consultants when other laboratorys' projects need a touch of digital humanities.
 
 Specialities
 ------
