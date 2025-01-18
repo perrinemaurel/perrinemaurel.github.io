@@ -9,11 +9,11 @@ redirect_from:
 
 My name is Perrine MAUREL and I am a first year PhD Student. I work on the characterisation of literary style in AI-generated texts, under the direction of [Glenn ROE](https://obtic.sorbonne-universite.fr/equipe-permanente/glenn-roe/), [Jérôme DAVID](https://www.unige.ch/lettres/framo/enseignants/corps-professoral/jerome-david) and [Motasem Alrahabi](https://obtic.sorbonne-universite.fr/equipe-permanente/motasem-alrahabi/).
 
-Vie de laboratoire
+Laboratory
 ======
-I am working for the [Observatoire des Textes, des Idées et des Corpus](https://obtic.sorbonne-universite.fr/) [Observaotry of Texts, Ideas and Corpora, ObTIC].
+I am working for the [Observatoire des Textes, des Idées et des Corpus](https://obtic.sorbonne-universite.fr/) [Observatory of Texts, Ideas and Corpora, ObTIC]. Our workspace is within the [Sorbonne Center for Artificial Intelligence](https://scai.sorbonne-universite.fr/) [SCAI], 4 place Jussieu, Paris, France.
 
-During my PhD, I participate to their events, talks and various projects.
+During my PhD, I participate to their events, talks and various projects. We also act as consultants when other laboratory's projects need a touch of digital humanities.
 
 Specialities
 ======
@@ -42,4 +42,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+The template of this site is called [Academic Pages](https://academicpages.github.io).
