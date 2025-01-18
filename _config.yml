@@ -11,7 +11,7 @@ locale                   : "fr-FR"
 title                    : "Perrine MAUREL / Academic Site"
 title_separator          : "-"
 name                     : &name "Perrine MAUREL"
-description              : &description "First year PhD Candidate in Digital Humanities"
+description              : &description "First year PhD Candidate in Digital Humanities."
 url                      : https://perrinemaurel.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "perrinemaurel/perrinemaurel.github.io"
@@ -22,13 +22,13 @@ repository               : "perrinemaurel/perrinemaurel.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Perrine MAUREL"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "First year PhD Candidate in Digital Humanities."
   location         : "Paris, France"
-  employer         : "Red Brick University"
+  employer         : "Sorbonne University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "perrine.maurel.recherche@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
