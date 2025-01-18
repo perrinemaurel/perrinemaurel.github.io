@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Comparative Litterature, "" GitHub University, 2018 (expected)
+* Master in Digital Humanities, PSL University (École nationale des chartes), 2023
+* Double Bachelor in Computer Sciences and Modern Literature, Sorbonne University, 2021
 
 Work experience
 ======
