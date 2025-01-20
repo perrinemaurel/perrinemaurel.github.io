@@ -3,7 +3,7 @@ title: "Paper Title Number 3"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'The transfictional character is ambiguous: how can we study a character in relation to its variants in other texts? This article examines the theoretical difficulties and proposes the use of named entities to study characters in a transfictional corpus. The methodology adopted and the experimentation with the use of named entities in a transfictional corpus will thus show that the character proves to be a relevant transfictional marker.'
 date: 2015-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
