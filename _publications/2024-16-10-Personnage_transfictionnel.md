@@ -3,12 +3,12 @@ title: "Le personnage transfictionnel : Une modélisation automatisée au servic
 collection: publications
 category: manuscripts
 permalink: /publication/2024-16-10-Personnage_transfictionnel
-excerpt: 'Le personnage transfictionnel est ambigu : comment étudier un personnage par rapport à ses variantes dans d’autres textes ? Après en avoir examiné les difficultés théoriques, la méthodologie adoptée et l’expérimentation de l’utilisation d’entités nommées dans un corpus transfictionnel permettront ainsi de montrer que le personnage s’avère être un marqueur transfictionnel pertinent.'
-date: 2024-16-10
-venue: 'Pegasus, Pour un laboratoire expérimental et appliqué de théorie littéraire 2024, n° 1. Le personnage'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://classiques-garnier.com/pegasus-2024-pour-un-laboratoire-experimental-et-applique-de-theorie-litteraire-n-1-le-personnage-le-personnage-transfictionnel.html'
-citation: 'Maurel, Perrine. (2024). &quot;Le personnage transfictionnel : Une modélisation automatisée au service d’une typologie.&quot; <i>Pegasus, n° 1. Le personnage</i>. 1(1).'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
