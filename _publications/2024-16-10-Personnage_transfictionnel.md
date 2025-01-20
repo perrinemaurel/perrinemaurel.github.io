@@ -2,7 +2,7 @@
 title: "Le personnage transfictionnel : Une modélisation automatisée au service d’une typologie"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-16-10-Personnage_transfictionnel
+permalink: /_publication/2024-16-10-Personnage_transfictionnel
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
