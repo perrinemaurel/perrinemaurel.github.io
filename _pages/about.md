@@ -22,5 +22,3 @@ I have a diploma in Digital Humanities and work mainly on online creative commun
 For more info
 ------
 The template of this site is called [Academic Pages](https://academicpages.github.io).
-
-> *It's a good thing you're not too dumb, because otherwise what would we do with you?* - My parents
