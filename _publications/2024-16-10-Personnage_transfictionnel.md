@@ -3,7 +3,7 @@ title: "Le personnage transfictionnel : Une modélisation automatisée au servic
 collection: publications
 category: manuscripts
 permalink: /_publication/2024-16-10-Personnage_transfictionnel
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'The transfictional character is ambiguous: how can we study a character in relation to its variants in other texts? This article examines the theoretical difficulties and proposes the use of named entities to study characters in a transfictional corpus. The methodology adopted and the experimentation with the use of named entities in a transfictional corpus will thus show that the character proves to be a relevant transfictional marker.'
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
