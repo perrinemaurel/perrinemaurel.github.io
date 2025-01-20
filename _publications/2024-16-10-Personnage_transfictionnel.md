@@ -6,6 +6,7 @@ permalink: /publication/2024-16-10-Personnage_transfictionnel
 excerpt: 'Le personnage transfictionnel est ambigu : comment étudier un personnage par rapport à ses variantes dans d’autres textes ? Après en avoir examiné les difficultés théoriques, la méthodologie adoptée et l’expérimentation de l’utilisation d’entités nommées dans un corpus transfictionnel permettront ainsi de montrer que le personnage s’avère être un marqueur transfictionnel pertinent.'
 date: 2024-16-10
 venue: 'Pegasus, Pour un laboratoire expérimental et appliqué de théorie littéraire 2024, n° 1. Le personnage'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://classiques-garnier.com/pegasus-2024-pour-un-laboratoire-experimental-et-applique-de-theorie-litteraire-n-1-le-personnage-le-personnage-transfictionnel.html'
 citation: 'Maurel, Perrine. (2024). &quot;Le personnage transfictionnel : Une modélisation automatisée au service d’une typologie.&quot; <i>Pegasus, n° 1. Le personnage</i>. 1(1).'
 ---
