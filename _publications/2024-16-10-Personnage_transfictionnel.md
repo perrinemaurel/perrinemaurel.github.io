@@ -7,7 +7,7 @@ excerpt: 'The transfictional character is ambiguous: how can we study a characte
 date: 2024-10-16
 venue: 'Pegasus : pour un laboratoire expérimental et appliqué de théorie littéraire'
 paperurl: 'https://classiques-garnier.com/export/html/pegasus-2024-pour-un-laboratoire-experimental-et-applique-de-theorie-litteraire-n-1-le-personnage-le-personnage-transfictionnel.html'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Maurel, Perrine. (2024). « Le personnage transfictionnel : une modélisation automatisée au service d’une typologie », <i>Pegasus : pour un laboratoire expérimental et appliqué de théorie littéraire n°1</i>.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
