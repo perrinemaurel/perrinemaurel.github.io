@@ -1,5 +1,5 @@
 ---
-title: "(Master) Fondations numériques d'un imaginaire : l'écriture créative en réseau dans l'exemple de La Fondation SCP"
+title: '(Master) Fondations numériques d'un imaginaire : l'écriture créative en réseau dans l'exemple de La Fondation SCP'
 collection: publications
 category: thesis
 permalink: /publication/2024-10-30-master_thesis
