@@ -1,9 +1,9 @@
 ---
-title: '(Master) Fondations numériques d'un imaginaire : l'écriture créative en réseau dans l'exemple de La Fondation SCP'
+title: "(Master) Fondations numériques d'un imaginaire : l'écriture créative en réseau dans l'exemple de La Fondation SCP"
 collection: publications
 category: thesis
 permalink: /publication/2024-10-30-master_thesis
-excerpt: 'This is my Master's thesis in Digital Humanities.'
+excerpt: "This is my Master's thesis in Digital Humanities."
 date: 2024-10-30
 venue: 'Dumas'
 paperurl: 'https://dumas.ccsd.cnrs.fr/dumas-04760430v1'
