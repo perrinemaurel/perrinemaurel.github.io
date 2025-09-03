@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Here is my academic CV in PDF format.  
-You can **download** it or **open it directly** below:
+You can **download** it below:
 
 - 📄 [Download my CV (PDF)](/files/Curriculum_université_MAUREL.pdf)
 
