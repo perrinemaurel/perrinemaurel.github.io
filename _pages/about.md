@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Perrine MAUREL and I am a first year PhD Student. I work on the characterisation of literary style in AI-generated texts, under the direction of [Glenn ROE](https://obtic.sorbonne-universite.fr/equipe-permanente/glenn-roe/), [Jérôme DAVID](https://www.unige.ch/lettres/framo/enseignants/corps-professoral/jerome-david) and [Motasem Alrahabi](https://obtic.sorbonne-universite.fr/equipe-permanente/motasem-alrahabi/).
+My name is Perrine MAUREL and I am a second year PhD Student. I work on the characterisation of literary style in AI-generated texts, under the direction of [Glenn ROE](https://obtic.sorbonne-universite.fr/equipe-permanente/glenn-roe/), [Jérôme DAVID](https://www.unige.ch/lettres/framo/enseignants/corps-professoral/jerome-david) and [Motasem Alrahabi](https://obtic.sorbonne-universite.fr/equipe-permanente/motasem-alrahabi/).
 
 Laboratory
 ------
