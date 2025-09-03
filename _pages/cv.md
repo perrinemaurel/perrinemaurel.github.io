@@ -9,6 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
+Here is my academic CV in PDF format.  
+You can **download** it or **open it directly** below:
+
+- 📄 [Download my CV (PDF)](/files/Curriculum_université_MAUREL.pdf)
+
+---
+
+### Aperçu intégré
+
+<iframe src="/files/mon_cv.pdf" width="100%" height="600px">
+Ce navigateur ne permet pas l'affichage direct du PDF.  
+Cliquez ici pour le <a href="/files/Curriculum_université_MAUREL.pdf">télécharger</a>.
+</iframe>
+
 Education
 ======
 * Ph.D in Comparative Litterature, "" GitHub University, 2018 (expected)
@@ -34,12 +48,16 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programmation/Balisage [années d’apprentissage formel]
+  * Python [5 ans]
+  * R [2 ans]
+  * XML [2 ans]
+  * C [3 ans]
+  * Scilab [2 ans]
+  * Java [2 ans]
+  * PHP [6 mois]
+  * Ocml [1 an]
+  * Javascript [1 an]
 
 Publications
 ======
@@ -58,7 +76,3 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
