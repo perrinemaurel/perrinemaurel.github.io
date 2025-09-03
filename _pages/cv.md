@@ -18,7 +18,7 @@ You can **download** it below:
 
 Education
 ======
-* Ph.D in Comparative Litterature, "" GitHub University, 2018 (expected)
+* Ph.D in Comparative Litterature, "Studying the efficiency of language models in the reproduction of literary style to further characterize AI-written texts", Sorbonne University, 2027 (expected)
 * Master in Digital Humanities, PSL University (École nationale des chartes), 2023
 * Double Bachelor in Computer Sciences and Modern Literature, Sorbonne University, 2021
 
