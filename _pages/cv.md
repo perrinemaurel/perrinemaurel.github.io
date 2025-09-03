@@ -16,13 +16,6 @@ You can **download** it or **open it directly** below:
 
 ---
 
-### Aperçu intégré
-
-<iframe src="/files/mon_cv.pdf" width="100%" height="600px">
-Ce navigateur ne permet pas l'affichage direct du PDF.  
-Cliquez ici pour le <a href="/files/Curriculum_université_MAUREL.pdf">télécharger</a>.
-</iframe>
-
 Education
 ======
 * Ph.D in Comparative Litterature, "" GitHub University, 2018 (expected)
